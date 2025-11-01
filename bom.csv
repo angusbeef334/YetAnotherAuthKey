@@ -1,4 +1,4 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+Id;Designator;Footprint;Quantity;Designation;Supplier and ref;
 1;"C8,C12,C10,C11,C17,C15,C19,C18,C14,C16,C13";"C_0402_1005Metric";11;"100n";;;
 2;"C1,C2";"C_0603_1608Metric";2;"10u";;;
 3;"SW1";"SW_Push_SPST_NO_Alps_SKRK";1;"SW_Push";;;
