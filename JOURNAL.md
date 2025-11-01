@@ -6,15 +6,22 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **YetAnotherAuthKey**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/227).
-
-
 ## 10/6/2025 - Did the schematic  
 
 Decent progress, created the schematic based on the QFN60 version of RP2350. There is no external flash as I will most likely be using RP2354, which has 2MB onboard flash and _should_ be enough space. I will probably clean up the schematic first, then route the PCB.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjgwLCJwdXIiOiJibG9iX2lkIn19--f8555963c8beee21671629ea86b65d7b3b751377/image.png)
 
+  
+
+## 11/1/2025 - Routed the PCB  
+
+Switched to a USB-A plug because it's easier to work with and the computer I will use it on has a type A port.
+
+Routed the PCB, rerouted the PCB, and then rerouted it again.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0c5734c30534d71b21dc5182be397ca7392c77b/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--dfbb273677da375cd37ce8da63d55918fed57059/image.png)
   
 
