@@ -29,3 +29,5 @@ LCSC bom (most of these have MOQs)
 | 11 | R6                                         | R_0402_1005Metric                                    | 1        | 33               | C138002          | 0.07          |
 | 12 | U1                                         | RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias | 1        | RP2350_60QFN     | C41378174        | 2.49          |
 | 13 | C3,C4                                      | C_0402_1005Metric                                    | 2        | 15p              | C86285           | 0.29          |
+
+Total: 9.64 USD
