@@ -25,3 +25,15 @@ Routed the PCB, rerouted the PCB, and then rerouted it again.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--dfbb273677da375cd37ce8da63d55918fed57059/image.png)
   
 
+## 11/10/2025 - Finish  
+
+I made the fabrication outputs and finished the GitHub repo.
+
+The final costs are attached below, I will be soldering the board myself.
+
+All prices in USD, totals to less than $30.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--024a21026ca9303a38890c7f7b7dbbc4497c45e6/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk4MywicHVyIjoiYmxvYl9pZCJ9fQ==--22f8fcea90ebfacee6c0b23010a04e7201aa53b5/image.png)
+  
+
