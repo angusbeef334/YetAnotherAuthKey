@@ -31,3 +31,8 @@ LCSC bom (most of these have MOQs)
 | 13 | C3,C4                                      | C_0402_1005Metric                                    | 2        | 15p              | C86285           | 0.29          |
 
 Total: 9.64 USD
+
+PCB:
+14.45 mm* 34.35 mm, green soldermask, leadfree HASL - 3.3 USD + 3 USD stencil
+
+Total: 16 USD + shipping
